@@ -1,6 +1,6 @@
 name = "thanhtaivtt"
-for i in range(0,5):
-    for j in range(i,5):
+for i in range(0,10):
+    for j in range(i,10):
         print(j, end = " ")
     print ("")
 # Ket qua:
